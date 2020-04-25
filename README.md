@@ -5,3 +5,4 @@ this is to test connection betwen local git and GitHub
 " 3rd local line." 
 " 4th local line." 
 " 5th local line." 
+" 6th local line." 
