@@ -4,3 +4,4 @@ this is to test connection betwen local git and GitHub
 ". Another line I wrote on my local computer." 
 " 3rd local line." 
 " 4th local line." 
+" 5th local line." 
